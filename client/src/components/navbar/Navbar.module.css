@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+max-width: 1160px;
+margin: auto;
+    color: #9c79e6;
+font-weight: 900;
+    padding: 16px;
+}
+.navbarContainer{
+background: #16301d;
+border-bottom: 1px solid rgba(0, 0, 0, 0.083);
+box-shadow: 0.2px 0.4px 1px rgba(0, 0, 0, 0.333);
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    text-transform: capitalize;
+}
+.a{
+    color: #9c79e6;
+
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+font-weight: 500;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}

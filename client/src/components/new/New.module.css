@@ -1,0 +1,9 @@
+.input{
+width: 100%;
+padding: 10px;
+}
+.textarea{
+width: 100%;
+resize: none;
+padding: 4px;
+}
